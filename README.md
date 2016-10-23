@@ -2,6 +2,13 @@
 
 # SOAtest - Extension Tool
 
+## add imports 
+```python
+from com.parasoft.api import *
+```
+
+
+
 ## Print out to console
 ```python
 Application.showMessage
