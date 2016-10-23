@@ -32,4 +32,9 @@ def addDataSource:
 	return "Name of Data Source|Generated Data Source"
 ```
 
+# xpath - Helper 
+
+- count()
+- string-join(..)
+
 
